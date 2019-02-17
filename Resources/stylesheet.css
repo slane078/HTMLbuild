@@ -1,0 +1,74 @@
+h1 {
+    color: darkcyan;
+    margin-top: -10px;
+    margin-bottom: -5px;
+    font-weight: bold;
+}
+
+h2 {
+    color: darkcyan;
+    font-weight: bold;
+    padding: 15px;
+}
+
+h3 {
+    color: darkcyan;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+p img {
+    float: left;
+    padding-right: 30px;
+    padding-bottom: 12px;
+}
+
+p {
+    margin: 20px;
+    padding: 25px;
+    background-color: navajowhite;
+}
+
+div .btn-group-vertical {
+    margin-left: 60px;
+}
+
+table {
+    color: #3b413c;
+    background-color: lightgoldenrodyellow;
+}
+
+
+.plot-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20 px;
+    width: 66%
+}
+
+.plot-info {
+    text-align: center;
+}
+
+p.plot-info {
+    font-size: 15px;
+}
+
+body {
+    background-color: navajowhite;
+    padding: 10px;
+    margin: 10px;
+}
+
+.button {
+    background-color: white;
+}
+
+.no-margins {
+    margin-left: 0 !important
+}
